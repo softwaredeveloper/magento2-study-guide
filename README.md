@@ -1,4 +1,5 @@
 # Magento2 Study Guide
+# [Freelance Magento Developer](https://www.phpfreelanceprogrammer.com/magento-programmer.html)
 A Magento 2 Developer Study Guide
 
 ## Table of Contents
